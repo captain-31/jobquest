@@ -13,5 +13,11 @@
     "nodemon": "^3.0.2",
     "path": "^0.12.7"
   },
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "build": "npm install"
+  },
   "type": "module"
 }
